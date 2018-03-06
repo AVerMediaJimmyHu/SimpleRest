@@ -1,0 +1,11 @@
+{
+    "deviceInfo": {
+        "device_id": "doorbell-000", "fimware_version": "avermedia-doorbell-v_0.0.1"
+    },
+    "scanList": {
+        "list": [{"bssid": "1c:7e:e5:49:eb:0d", "signal_level": "86", "flags": "[WPA2-PSK-CCMP][ESS]", "ssid": "Lucky7"}, {"bssid": "88:d7:f6:00:42:90", "signal_level": "74", "flags": "[WPA2-PSK-CCMP][WPS][ESS]", "ssid": "ASUS_90_2G"}, {"bssid": "00:1e:4a:e5:1c:e3", "signal_level": "68", "flags": "[WPA2-EAP-CCMP][ESS]", "ssid": "HQ-Staff_2012"}, {"bssid": "00:1f:9d:21:a8:e3", "signal_level": "60", "flags": "[WPA2-EAP-CCMP][ESS]", "ssid": "HQ-Staff_2012"}, {"bssid": "6c:72:20:fb:3a:f3", "signal_level": "58", "flags": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]", "ssid": "D-Link_DIR-612"}, {"bssid": "00:1e:4a:e5:1d:83", "signal_level": "62", "flags": "[WPA2-EAP-CCMP][ESS]", "ssid": "HQ-Staff_2012"}, {"bssid": "dc:74:a8:a8:7a:38", "signal_level": "60", "flags": "[WPA2-PSK-CCMP][ESS]", "ssid": "panos s2 pad"}]
+    },
+    "connectNetwork": {
+        "message": "ok"
+    }
+}
