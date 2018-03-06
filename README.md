@@ -1,2 +1,2 @@
-# JsonSample
-A sample json storage for my projects
+Fake Online REST server for teams
+https://my-json-server.typicode.com/
